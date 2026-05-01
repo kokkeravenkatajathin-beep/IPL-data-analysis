@@ -2,22 +2,23 @@
 
 This project analyzes IPL dataset (2008–2024) using Python.
 
-## Features
-- Top winning teams visualization
-- Matches by venue analysis
+## 📊 Features
+- Top winning teams visualization (pie chart)
+- Matches by venue analysis (bar + line chart)
 - Toss winner trends
+- Top 5 teams comparison
 
-## Technologies Used
+## 🛠 Technologies Used
 - Python
 - Pandas
 - Matplotlib
 
-## Key Insights
-- Identified most successful teams
+## 📈 Key Insights
+- Identified most successful IPL teams
 - Compared match distribution across venues
-- Analyzed toss impact on match outcomes
+- Analyzed toss outcomes and trends
 
-## How to Run
+## ▶️ How to Run
 1. Download dataset
 2. Run analysis.py
 
